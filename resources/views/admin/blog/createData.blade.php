@@ -6,7 +6,7 @@
     <div class="breadcrumb-line">
         <ul class="breadcrumb">
             <li><a href="index.html"><i class="icon-home2 position-left"></i>Admin</a></li>
-            <li><a href="datatable_basic.html">Add Post</a></li>
+            <li><a href="datatable_basic.html">Add New Post</a></li>
         </ul>
     </div>
 
